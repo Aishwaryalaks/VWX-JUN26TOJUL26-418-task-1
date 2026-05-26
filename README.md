@@ -7,5 +7,5 @@ A simple Flask-based note app using SQLite database.
 - Save notes
 - Display saved notes
 
-## Demo Video
-[Watch Demo Video](https://drive.google.com/file/d/1SSjPSmDRPD9NfNS4ZvrTYOBQvh1Rd83I/view?usp=sharing)
+## task 1 Video
+[task 1 Video](https://drive.google.com/file/d/1SSjPSmDRPD9NfNS4ZvrTYOBQvh1Rd83I/view?usp=sharing)
