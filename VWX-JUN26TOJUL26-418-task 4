@@ -1,0 +1,78 @@
+# Quote Generator with History ✨
+
+A Flask web application that fetches random quotes from an external API and stores them in a database as history.
+
+---
+
+## 🚀 Features
+
+- Get random quotes from API
+- Store quote history in SQLite database
+- Simple and clean UI
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+- Requests API
+
+---
+
+## 📂 Project Structure
+
+quote-generator/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── static/
+│ └── style.css
+├── README.md
+
+---
+
+## ▶️ How to Run
+
+### 1. Install dependencies
+
+```bash
+pip install flask requests
+```
+
+### 2. Run application
+
+```bash
+py app.py
+```
+
+### 3. Open browser
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+## 🌐 API Used
+
+- https://api.quotable.io/random
+
+---
+
+## ✨ Output
+
+- Displays random quotes
+
+
+---
+task 4 video link:
+https://drive.google.com/file/d/1lb0vvXQg_0DXQ4O12lbUw3BCl9Wi9SRZ/view?usp=sharing
+
+## 👩‍💻 Author
+
+Aishwarya Lakshmi
