@@ -1,0 +1,17 @@
+# User Profile Card Generator
+
+A Flask-based web application that generates a user profile card using name, bio, and image URL.
+
+## Features
+- Form input
+- POST request handling
+- Dynamic profile card generation
+- Flask backend
+
+## Technologies Used
+- Python Flask
+- HTML
+- CSS
+
+## task 2 Video
+https://drive.google.com/file/d/1DsI350W9Qms9yvaHgZHhfpX_yN-M5L7W/view?usp=sharing
