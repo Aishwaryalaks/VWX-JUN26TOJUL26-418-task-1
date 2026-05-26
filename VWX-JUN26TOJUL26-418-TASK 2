@@ -1,0 +1,65 @@
+# User Profile Card Generator
+
+A Flask-based web application that generates a stylish user profile card using user input.
+
+## Features
+
+- User-friendly form interface
+- Accepts:
+  - Name
+  - Email
+  - Bio
+  - Profile Image URL
+- Generates dynamic profile card
+- Modern responsive UI
+- Flask backend integration
+- Handles POST requests
+
+## Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+
+## Project Structure
+
+profile-card-generator/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── static/
+│ └── style.css
+
+## How to Run
+
+1. Install Flask
+
+```bash
+py -m pip install flask
+```
+
+2. Run the application
+
+```bash
+py app.py
+```
+
+3. Open browser
+
+```text
+http://127.0.0.1:5000
+```
+
+## Demo Video
+
+task 2 video
+https://drive.google.com/file/d/1Tk5uG0bAmATvbgeuC2vfmv22tGfIqkkg/view?usp=sharing
+## Output
+
+The application creates a professional profile card dynamically from user input.
+
+## Author
+
+Aishwarya Lakshmi
