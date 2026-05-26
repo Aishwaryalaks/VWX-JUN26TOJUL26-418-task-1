@@ -1,0 +1,67 @@
+# Coffee Rating Application ☕
+
+A Flask-based web application where users can vote for their favorite coffee items.
+
+## Features
+
+- Display coffee list
+- Coffee images
+- Vote button functionality
+- Database vote storage
+- Dynamic vote updates
+- Flask backend integration
+
+## Technologies Used
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+
+## Project Structure
+
+coffee-rating-app/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── static/
+│ ├── style.css
+│ └── images/
+
+## How to Run
+
+1. Install Flask
+
+```bash
+py -m pip install flask
+```
+
+2. Run application
+
+```bash
+py app.py
+```
+
+3. Open browser
+
+```text
+http://127.0.0.1:5000
+```
+
+## Features Demonstrated
+
+- Backend logic handling
+- Database updates
+- Flask routing
+- Dynamic rendering
+- SQLite database integration
+
+task 3 video:
+https://drive.google.com/file/d/19bZ9mR1wQihfb38iua2syG4QFGvfl5OH/view?usp=sharing
+
+
+## Author
+
+Aishwarya Lakshmi
