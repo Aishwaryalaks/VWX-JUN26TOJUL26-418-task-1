@@ -1,0 +1,82 @@
+# Team Availability Tracker 👥
+
+A Flask-based dashboard application that displays team members and their availability status. Users can toggle between AVAILABLE and BUSY states, and changes are stored in a SQLite database.
+
+---
+
+## 🚀 Features
+
+- View team members
+- Toggle availability status
+- Real-time UI updates
+- SQLite database integration
+- Conditional rendering using Flask
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+
+---
+
+## 📂 Project Structure
+
+team-availability-tracker/
+│
+├── app.py
+├── templates/
+│ └── index.html
+├── static/
+│ └── style.css
+├── README.md
+
+---
+
+## ▶️ How to Run
+
+### 1. Install Flask
+
+```bash
+pip install flask
+```
+
+### 2. Run application
+
+```bash
+py app.py
+```
+
+### 3. Open browser
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+## ✨ Functionalities
+
+- Toggle team availability
+- Update database values dynamically
+- Visual status indicators
+- Responsive card UI
+
+---
+
+## 📸 Output
+
+- Green button → AVAILABLE
+- Orange button → BUSY
+
+---
+Task 5 video link:
+https://drive.google.com/file/d/1KBglLwTfmsJyNXs3ZbdlYRtCbtbYgiRO/view?usp=sharing
+
+## 👩‍💻 Author
+
+Aishwarya Lakshmi
